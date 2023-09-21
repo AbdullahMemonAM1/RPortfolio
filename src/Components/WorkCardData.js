@@ -7,19 +7,19 @@ const ProjectCardData= [
         imgsrc:pro1,
         title:"Ecommernce Website Design",
         text:"Thriving Facebook community",
-        view:"url.com"
+        view:"https://github.com/AbdullahMemonAM1"
     },
     {
         imgsrc:pro2,
         title:"Ecommernce Website Design",
         text:"Thriving Facebook community",
-        view:"url.com"
+        view:"https://github.com/AbdullahMemonAM1"
     },
     {
         imgsrc:pro3,
         title:"Rymo Website Design",
         text:"Thriving Facebook community",
-        view:"url.com"
+        view:"https://github.com/AbdullahMemonAM1"
     }
 
 

@@ -15,7 +15,7 @@ const Workcard = (props) => {
             <p>{props.text}</p>
             <div className="pro-btns">
                 <Link to={props.view} className="btn">View</Link>
-                <Link to="url.com" className="btn">Source</Link>
+                <Link to="https://github.com/AbdullahMemonAM1" className="btn">Source</Link>
 
             </div>
         </div>

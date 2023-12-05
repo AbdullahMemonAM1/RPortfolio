@@ -1,27 +1,29 @@
-import React from "react"
-import "./Workcardstyle.css"
-import pro1 from "../Assets/web1.png"
+import React from "react";
+import "./Workcardstyle.css";
+import pro1 from "../Assets/web1.png";
 import { Link } from "react-router-dom";
-import WorkCardData from "./WorkCardData"
-import Workcard from "./Workcard"
+import WorkCardData from "./WorkCardData";
+import Workcard from "./Workcard";
 
 const Work = () => {
   return (
-<div className="work-container">
-<h1 className="project-heading">Projects</h1>
-<div className="project-container">
-{WorkCardData.map((val,ind)=>{return(
-<Workcard key={ind}
-imgsrc={val.imgsrc}
-title={val.title}
-text={val.text}
-view={val.view}
-/>
-
-)})}    
-</div>
+    <div className="work-container">
+      <h1 className="project-heading">Projects</h1>
+      <div className="project-container">
+        {WorkCardData.map((val, ind) => {
+          return (
+            <Workcard
+              key={ind}
+              imgsrc={val.imgsrc}
+              title={val.title}
+              text={val.text}
+              view={val.view}
+            />
+          );
+        })}
+      </div>
     </div>
-  )
+  );
 };
 
-export default Work
+export default Work;

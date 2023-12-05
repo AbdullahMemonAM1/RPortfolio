@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4fd0c186.css",
-    "main.js": "/Portfolio/static/js/main.c1e40bb6.js",
-    "static/media/pexels-toni-cuenca-585752.jpg": "/Portfolio/static/media/pexels-toni-cuenca-585752.6db4ecc2af3188a6d7e9.jpg",
-    "static/media/pexels-pixabay-356056.jpg": "/Portfolio/static/media/pexels-pixabay-356056.b570d30412dce9b88d36.jpg",
-    "static/media/AI.jpg": "/Portfolio/static/media/AI.5728d2c25782fffa5a25.jpg",
-    "static/media/pexels-cup-of-couple-6177677.jpg": "/Portfolio/static/media/pexels-cup-of-couple-6177677.19038d7c45c113bd3c3a.jpg",
-    "static/media/futur.jpg": "/Portfolio/static/media/futur.f9f0eeb176fb43e625a6.jpg",
-    "static/media/info.jpg": "/Portfolio/static/media/info.d67cfc55fcde6a8d9d3c.jpg",
-    "static/media/rds.jpg": "/Portfolio/static/media/rds.2ffec22e78b73e2aec9e.jpg",
-    "static/media/todo.jpg": "/Portfolio/static/media/todo.91e1e301ab8943cc1e85.jpg",
-    "static/media/med.jpg": "/Portfolio/static/media/med.91bead3bd8db854d1d75.jpg",
-    "index.html": "/Portfolio/index.html",
-    "main.4fd0c186.css.map": "/Portfolio/static/css/main.4fd0c186.css.map",
-    "main.c1e40bb6.js.map": "/Portfolio/static/js/main.c1e40bb6.js.map"
+    "main.css": "/RPortfolio/static/css/main.34796cc7.css",
+    "main.js": "/RPortfolio/static/js/main.5e37f2ac.js",
+    "static/media/pexels-toni-cuenca-585752.jpg": "/RPortfolio/static/media/pexels-toni-cuenca-585752.6db4ecc2af3188a6d7e9.jpg",
+    "static/media/pexels-pixabay-356056.jpg": "/RPortfolio/static/media/pexels-pixabay-356056.b570d30412dce9b88d36.jpg",
+    "static/media/AI.jpg": "/RPortfolio/static/media/AI.5728d2c25782fffa5a25.jpg",
+    "static/media/pexels-cup-of-couple-6177677.jpg": "/RPortfolio/static/media/pexels-cup-of-couple-6177677.19038d7c45c113bd3c3a.jpg",
+    "static/media/futur.jpg": "/RPortfolio/static/media/futur.f9f0eeb176fb43e625a6.jpg",
+    "static/media/info.jpg": "/RPortfolio/static/media/info.d67cfc55fcde6a8d9d3c.jpg",
+    "static/media/rds.jpg": "/RPortfolio/static/media/rds.2ffec22e78b73e2aec9e.jpg",
+    "static/media/todo.jpg": "/RPortfolio/static/media/todo.91e1e301ab8943cc1e85.jpg",
+    "static/media/med.jpg": "/RPortfolio/static/media/med.91bead3bd8db854d1d75.jpg",
+    "index.html": "/RPortfolio/index.html",
+    "main.34796cc7.css.map": "/RPortfolio/static/css/main.34796cc7.css.map",
+    "main.5e37f2ac.js.map": "/RPortfolio/static/js/main.5e37f2ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fd0c186.css",
-    "static/js/main.c1e40bb6.js"
+    "static/css/main.34796cc7.css",
+    "static/js/main.5e37f2ac.js"
   ]
 }

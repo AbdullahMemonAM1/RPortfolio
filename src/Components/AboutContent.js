@@ -37,7 +37,7 @@ const AboutContent = () => {
               <img src={react1} className="img" alt="nino" />
             </div>
             <div className="img-stack bottom">
-              <img src={react2} className="img" alt="" />
+              <img src={react2} className="img" alt="nothing" />
             </div>
           </div>
         </div>
